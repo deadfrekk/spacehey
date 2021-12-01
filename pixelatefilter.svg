@@ -1,5 +1,3 @@
-<svg x="0px" y="0px" width="810px" height="600px" viewBox="0 0 810 600" color-interpolation-filters="sRGB">
-  <defs>
 <filter id="pixelate" x="0%" y="0%" width="100%" height="100%">
   <!--Thanks to Zoltan Fegyver for figuring out pixelation and producing the awesome pixelation map. -->
   <feGaussianBlur stdDeviation="2" in="SourceGraphic" result="smoothed" />
@@ -8,4 +6,3 @@
   <feDisplacementMap in="smoothed" in2="pixelate-map" xChannelSelector="R" yChannelSelector="G" scale="50" result="pre-final"/>
   <feComposite operator="in" in2="SourceGraphic"/>
 </filter>
-  </defs>
