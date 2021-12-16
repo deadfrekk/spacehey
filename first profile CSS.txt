@@ -1,0 +1,176 @@
+about me:
+
+<marquee>best viewed on a shit computer </marquee>
+producer, rapper, procrastinator and songwriter. I like art. I hate music.
+professional degenerate & wanna be emo
+<br/><br/>
+i will be autoplaying my own music when i got time to post them onine ;} <br/>
+
+in the meantime i will be autoplaying some of the songs from my mixtape Sketch Hillbombz vol. 1&2 <br/>
+<div style="display:flex;justify-content:center;"><iframe width="400px" height="400px" src="https://www.youtube.com/embed/videoseries?autoplay=1&;loop=1&;controls=1&list=PLn_VHNPcuqPZoxsqGX5rXzZB2yq4r-gbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+my friends
+<style>body{color:green;}</style></iframe></div>
+<style>
+.grain-containerr:after {
+    pointer-events: none;
+    animation: grain 8s steps(10) infinite;
+    background: transparent url(http://static.tumblr.com/fa93fb4aec809283fcabfcfebe45a0e8/fwyuhhy/HzBnk3uvs/tumblr_static_cfmt0oetwnsccwoc00gcso4ko.gif) repeat 0 0;
+    content: "";
+    height: 300%;
+    left: -50%;
+    opacity: 0.3;
+    position: fixed;
+    top: -100%;
+    width: 300%;
+}
+/*shout out https://spacehey.com/joeyzero for showing me this*/
+.grain-container:after {
+    pointer-events: none;
+    animation: grain 8s steps(10) infinite;
+    animation-duration: 8s;
+    animation-timing-function: steps(10);
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: grain;
+    background: transparent url(https://external-media.spacehey.net/media/s5VjOpTgZQ3tDP2aXrPfhim7pbeEqK6zlFlWiSXX89Ps=/https://shabtibot.com/img/general/dark-denim-3.png) repeat 0 0;
+    background-image: url(https://external-media.spacehey.net/media/s5VjOpTgZQ3tDP2aXrPfhim7pbeEqK6zlFlWiSXX89Ps=/https://shabtibot.com/img/general/dark-denim-3.png);
+    background-position-x: 0px;
+    background-position-y: 0px;
+    background-size: initial;
+    background-repeat-x: repeat;
+    background-repeat-y: repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: transparent;
+    content: "";
+    height: 300%;
+    left: -50%;
+    opacity: 0.4;
+    position: fixed;
+    top: -100%;
+    width: 300%;
+}
+</style>
+	
+
+<style>
+.container{width: 999px; border:2px solid black; border-style: dotted;}
+.gun{filter:opacity(50%);}
+body{border:2px black;
+border-style: dotted;
+}</style>
+
+<style> main:{
+filter:url(https://raw.githubusercontent.com/deadfrekk/spacehey/main/pixelatefilter#pixelate;}</style><style>body { cursor: url('data:image/x-icon;base64,AAACAAEAICACAAgACAAwAQAAFgAAACgAAAAgAAAAQAAAAAEAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAwAAAAMAAAADAAAAAwAAAAAAAAAAAAAB8D4AAfA+AAAAAAAAAAAAAAMAAAADAAAAAwAAAAMAAAADAAAAAAAAA///////////////////////////////////////////////////////////////////////////+H////h////4f///+H////h////4f///+H///AeA//wHgP/8B4D//AeA///4f///+H////h////4f///+H////h////4f//8='), auto; }</style>
+<span class="gun" style="color: blue;//                                            overlay gun                             //; font-size: 100pt;position: fixed;right:0;bottom:-10%;margin:0;background-image:url('http://web.archive.org/web/20170102170359im_/http://vignette3.wikia.nocookie.net/cswikia/images/c/c5/V_ak47_csgo.png/revision/latest?cb=20151031204805');width:50%;height:52%;z-index: 9999;background-size:100%;background-repeat:no-repeat;pointer-events:none;;"></span>
+<style>
+body{
+background: url(https://fillster.com/images/backgrounds/87k.gif);
+font-family: monospace;
+font-size: x-large;
+}
+.top,.links{
+filter: invert(1);
+}
+</style>
+<div class="snowflakes">
+  <div class="snowflake">
+  💲
+  </div>
+  <div class="snowflake" style="filter:invert(1);">
+  ♠️
+  </div>
+  <div class="snowflake">
+  🏴‍☠️
+  </div>
+  <div class="snowflake" style="filter:invert(1);">
+  ☹︎
+  </div>
+  <div class="snowflake">
+  🗨️
+  </div>
+  <div class="snowflake">
+  🗡
+  </div>
+  <div class="snowflake">
+    🚬
+  </div>
+<div class="snowflake" style="filter:invert(1);">
+    ☠︎
+  </div>
+  <div class="snowflake" style="filter:invert(1);">
+    ⍨
+  </div>
+  <div class="snowflake" style="filter:invert(1);">
+    👻
+  </div>
+  <div class="snowflake" style="filter:invert(1);">
+    ☹︎
+  </div>
+<div class="snowflake">
+    🔪
+  </div>
+</div>
+<style>
+
+.snowflake {
+  color: #fff;
+  font-size: 2em;
+  font-family: Arial, sans-serif;
+  text-shadow: 0 0 5px rgba(0,0,0,0.7);
+}
+
+@-webkit-keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@-webkit-keyframes snowflakes-shake{0%,100%{-webkit-transform:translateX(0);transform:translateX(0)}50%{-webkit-transform:translateX(80px);transform:translateX(80px)}}@keyframes snowflakes-fall{0%{top:-10%}100%{top:100%}}@keyframes snowflakes-shake{0%,100%{transform:translateX(0)}50%{transform:translateX(80px)}}.snowflake{position:fixed;top:-10%;z-index:9999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default;-webkit-animation-name:snowflakes-fall,snowflakes-shake;-webkit-animation-duration:10s,3s;-webkit-animation-timing-function:linear,ease-in-out;-webkit-animation-iteration-count:infinite,infinite;-webkit-animation-play-state:running,running;animation-name:snowflakes-fall,snowflakes-shake;animation-duration:10s,3s;animation-timing-function:linear,ease-in-out;animation-iteration-count:infinite,infinite;animation-play-state:running,running}.snowflake:nth-of-type(0){left:1%;-webkit-animation-delay:0s,0s;animation-delay:0s,0s}.snowflake:nth-of-type(1){left:10%;-webkit-animation-delay:1s,1s;animation-delay:1s,1s}.snowflake:nth-of-type(2){left:20%;-webkit-animation-delay:6s,.5s;animation-delay:6s,.5s}.snowflake:nth-of-type(3){left:30%;-webkit-animation-delay:4s,2s;animation-delay:4s,2s}.snowflake:nth-of-type(4){left:40%;-webkit-animation-delay:2s,2s;animation-delay:2s,2s}.snowflake:nth-of-type(5){left:50%;-webkit-animation-delay:8s,3s;animation-delay:8s,3s}.snowflake:nth-of-type(6){left:60%;-webkit-animation-delay:6s,2s;animation-delay:6s,2s}.snowflake:nth-of-type(7){left:70%;-webkit-animation-delay:2.5s,1s;animation-delay:2.5s,1s}.snowflake:nth-of-type(8){left:80%;-webkit-animation-delay:1s,0s;animation-delay:1s,0s}.snowflake:nth-of-type(9){left:90%;-webkit-animation-delay:3s,1.5s;animation-delay:3s,1.5s}.snowflake:nth-of-type(10){left:25%;-webkit-animation-delay:2s,0s;animation-delay:2s,0s}.snowflake:nth-of-type(11){left:65%;-webkit-animation-delay:4s,2.5s;animation-delay:4s,2.5s}
+</style>
+
+<style>
+@keyframes floating {
+    0% {
+        transform: translateX(0%);  
+    }
+    50% {
+        transform: translateY(15px); 
+    }   
+    100% {
+        transform: translateX(1%);
+    }           
+}
+
+.loseite{
+    animation-name: floating !important;  
+    animation-duration: 0.2s !important; 
+    animation-iteration-count: infinite !important; 
+    animation-timing-function: ease-in-out !important; 
+}
+</style>
+<img width="100%" height="auto" src="https://cdn.discordapp.com/attachments/608396423024738367/915516839650549780/cooltext399107098546004.gif" alt="punk4eva"/>
+<div style="display:flex;justify-content:center;">
+<a href="https://yesterweb.org/no-to-web3/" target="_blank"><img style="border:1px solid red;" src="https://auzziejay.com/images/noweb32.gif"/></a>
+<a href="https://yesterweb.org/no-to-web3/" target="_blank"><img style="border:1px solid red;" src="https://yesterweb.org/no-to-web3/img/roly-saynotoweb3.gif"/></a>
+<a href="https://yesterweb.org/no-to-web3/" target="_blank"><img style="border:1px solid red;" src="https://yesterweb.org/no-to-web3/img/roly-saynotoweb3.gif"/></a>
+<a href="https://yesterweb.org/no-to-web3/" target="_blank"><img style="border:1px solid red;" src="https://auzziejay.com/images/noweb32.gif"/></a>
+</div>
+
+
+Who'd id like to meet:
+
+send me a DM. let's check the vibes ;P
+<br/>
+
+<strong>PLEASE HACK ME AND STALK ME AND TREATEN ME</strong>, imma call you out on my next dj set.
+<br/>
+<br/>
+<iframe frameborder="0" width="100%" height="auto" src="https://www.youtube.com/embed/_JN0qKzcfvU?controls=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<iframe width="100%" height="200%" src="https://www.youtube.com/embed/EDhK6FPCMOA?controls=0&start=553" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<iframe frameborder="0" width="100%" height="200%" src="https://www.youtube.com/embed/hPNCLJ-uAZY?controls=0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="display:flex;justify-content:center;">
+<h2>rare mix you wont find anywhere</h2></div>
+
+<div class="loseite"><iframe width="100%" height="200%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1043212309&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/we_anno_domini" title="wead" target="_blank" style="color: #cccccc; text-decoration: none;">wead</a> · <a href="https://soundcloud.com/we_anno_domini/dj-s1st3rh00d-girls-nightcore-out-hardstyle-eurodancing-1" title="DJ S1st3rh00d &#x209A;&#x1D63;&#x2091;&#x209B;&#x2091;&#x2099;&#x209C;&#x209B; Girls Nightcore Out Hardstyle Eurodancing &#xD7;&#xBA;&#xB0;&#x201D;&#x2DC;`&#x201D;&#xB0;&#xBA;&#xD7;&#x2084;&#x2091;&#x1D65;&#x2090;&#x2098;&#x1D62;&#x2093;&#xD7;&#xBA;&#xB0;&#x201D;&#x2DC;`&#x201D;&#xB0;&#xBA;&#xD7;" target="_blank" style="color: #cccccc; text-decoration: none;">DJ S1st3rh00d ₚᵣₑₛₑₙₜₛ Girls Nightcore Out Hardstyle Eurodancing ×º°”˜`”°º×₄ₑᵥₐₘᵢₓ×º°”˜`”°º×</a></div></div>
+
